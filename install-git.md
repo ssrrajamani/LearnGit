@@ -61,4 +61,4 @@ Sourcetree, a free visual Git client for Mac, comes with its own bundled version
 
 **To do source install and the installation for windows and linux can be found [here](https://www.atlassian.com/git/tutorials/install-git)**
 
-
+Refer this [page](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) on how to setup ssh key
