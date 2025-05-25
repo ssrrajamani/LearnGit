@@ -59,9 +59,6 @@ To work with a private repository over HTTPS, you must supply a username and pas
 
 Sourcetree, a free visual Git client for Mac, comes with its own bundled version of Git. You can [download Sourcetree here](http://www.sourcetreeapp.com/)
 
-
-
-
 **To do source install and the installation for windows and linux can be found [here](https://www.atlassian.com/git/tutorials/install-git)**
 
 
