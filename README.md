@@ -1,0 +1,1 @@
+This repo helps us learn Git and Github
